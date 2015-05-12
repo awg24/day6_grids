@@ -1,0 +1,13 @@
+.set-styles {
+  background: #333333;
+  color: #c9c9c9; }
+
+.set-lightgray-background {
+  background: #cccccc; }
+
+.set-margin-top {
+  margin-top: 30px; }
+
+.set-border-bottom {
+  border-bottom: 2px solid black;
+  width: 100%; }
