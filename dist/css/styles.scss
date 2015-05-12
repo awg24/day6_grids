@@ -12,5 +12,11 @@
 
 .set-border-bottom {
 	border-bottom: 2px solid black;
-	width: 100%;
+}
+
+@media (min-width: 992px) {
+
+	.center-btn{
+		margin-top: 90px;
+	}
 }

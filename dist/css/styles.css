@@ -9,5 +9,8 @@
   margin-top: 30px; }
 
 .set-border-bottom {
-  border-bottom: 2px solid black;
-  width: 100%; }
+  border-bottom: 2px solid black; }
+
+@media (min-width: 992px) {
+  .center-btn {
+    margin-top: 90px; } }
