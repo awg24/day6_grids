@@ -1,6 +1,7 @@
 .set-styles {
   background: #333333;
-  color: #c9c9c9; }
+  color: #c9c9c9;
+  margin-top: 15px; }
 
 .set-lightgray-background {
   background: #cccccc; }
@@ -13,4 +14,4 @@
 
 @media (min-width: 992px) {
   .center-btn {
-    margin-top: 90px; } }
+    margin-top: 80px; } }
